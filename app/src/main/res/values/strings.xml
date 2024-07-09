@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InsulinCalculator</string>
+    <string name="enter_total_carbs">Total Amount of Carbs</string>
+    <string name="carbs_hint">Enter carbs in grams</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="home_button_text">Home</string>
+    <string name="carb_ratio_text">Current Carb Ratio</string>
+    <string name="calculate_button_text">Calculate Insulin Dosage</string>
+    <string name="ratio_button_text">Set New Carb Ratio</string>
+    <string name="insulin_dosage_text">Insulin Dosage</string>
+    <string name="new_carb_ratio_text">Choose New Carb Ratio</string>
+    <string name="ratio_hint">Enter your carb ratio</string>
+    <string name="zero">0</string>
+    <string name="carb_ratio_message">The carb ratio used for this app is units per 10g of carbs.</string>
+    <string name="units">Units</string>
+</resources>
